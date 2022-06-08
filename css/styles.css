@@ -201,20 +201,20 @@ main.cards section.card.fale {
 }
 
 main.conteudo-principal{
-    height: 900px;
-    width: 900px;
     margin: 10px auto;
     border-right: 2px solid rgb(241, 241, 241);
     border-left: 2px solid rgb(241, 241, 241);
-    justify-content: center;
 
 }
 section.conteudo-txt{
-    margin: 20px auto;
+    margin-left: 400px;
+    margin-right: 400px;
+    border: 5px black;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    gap: 20px;
     
 }
 
